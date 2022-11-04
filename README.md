@@ -35,5 +35,5 @@ I'll pick students who get to present the following:
 * What does `tr` mean? (test `man tr`)
 
 # World of Zuul
-It can be a jobbig uppgift. 
+[It can be a jobbig uppgift](https://gits-15.sys.kth.se/inda-master/task-8). 
 
